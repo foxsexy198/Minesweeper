@@ -1,0 +1,5 @@
+#include "definegame.h"
+#include "cell.h"
+#include "state.h"
+#include "compute.h"
+#include "display.h"
